@@ -1,9 +1,11 @@
 # CSE 15L
 ## Lab 2
+
+
+Hi *CSE 15L*.
+This is **Kathy**.
+
 ---
-
-
-Hello *World*. This is **Kathy**.
 
 [Link](http://a.com)
 
@@ -15,11 +17,14 @@ List1:
 * one
 * two
 * three
+* four
+* five
 
 List2:
 1. one
 2. two
-3. three
+
+---
 
 `Inline code` with backticks
 
