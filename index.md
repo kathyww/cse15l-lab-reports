@@ -1,9 +1,11 @@
 # CSE 15L
 ## Lab 2
----
+
 
 
 Hello *World*. This is **Kathy**.
+
+---
 
 [Link](http://a.com)
 
