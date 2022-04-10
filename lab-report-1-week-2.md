@@ -6,10 +6,14 @@ In Lab1 you will set up VS code and learn some basic remotely connection skills.
 
     Follow the instructoin and download VS Code from [VS Code website](https://code.visualstudio.com).
     After installed you should see the page below when you open it. 
-    ![Image] ()
+    ![Image](https://user-images.githubusercontent.com/103288344/162638790-5a2ead72-a8cb-4123-b2e4-88c6225c66c0.png)
 
+2. Remotely Connecting
 
-2. 
+    In VS Code, open terminal and run the command:
+    '$ ssh cs15lsp22zz@ieng6.ucsd.edu'
+    
+4. 
 
 
 ## screenshot
