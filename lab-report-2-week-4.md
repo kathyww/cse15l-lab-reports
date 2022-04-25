@@ -38,7 +38,7 @@ Symptom:
 
 
 Fix:
-![3rd Change](https://user-images.githubusercontent.com/103288344/165037914-0d443607-bebc-4804-ae47-1ef65ff1c13b.png)
+![3rd Change](https://user-images.githubusercontent.com/103288344/165038111-f20d7fc9-3045-4a2a-8497-ec877867cc86.png)
 
 
 
