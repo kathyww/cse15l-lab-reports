@@ -3,8 +3,20 @@
 This report includes three code changes that our group worked on in lab 3 in order to fix a bug.
 
 ### Three code changes: ### 
-![1st Change]()
+
+
+[test file1 error](https://github.com/kathyww/markdown-parser/blob/main/test-file1.md)
+![1st Error](https://user-images.githubusercontent.com/103288344/165035267-b5fb3066-d0bc-4cf5-a93a-36b7f37d6a6f.png)
+![1st Change](https://user-images.githubusercontent.com/103288344/165035440-80b8fe5a-61d8-4adc-8c54-7541553091a7.png)
+
+
+
+---
+[test file2 error](https://github.com/kathyww/markdown-parser/blob/main/test-file1.md)
 ![2st Change]()
+
+
+---
 ![3st Change]()
 
 
