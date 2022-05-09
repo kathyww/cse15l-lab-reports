@@ -2,7 +2,7 @@
 
 
 
-1. ## Streamlining ssh Configuration ##
+## 1. Streamlining ssh Configuration ##
 
   * Logging in by using the command `ssh ieng6`
     ![Image1](https://user-images.githubusercontent.com/103288344/167320907-786f6e7c-4f4c-4bfc-9286-ea1c826cc889.png)
@@ -12,7 +12,7 @@
     ![Image2](https://user-images.githubusercontent.com/103288344/167321627-5ec2bfe9-9e2a-4c29-91dc-5956e1fd1d58.png)
 
 
-2. Setup Github Access from ieng6
+## 2. Setup Github Access from ieng6 ##
 
   * The public key on Github
     ![public key](https://user-images.githubusercontent.com/103288344/167353039-5384d8c0-8b10-4e99-921a-8c357b0c7fa6.png)
@@ -32,7 +32,7 @@
   
 
 
-3. Copy whole directories with `scp -r`
+## 3. Copy whole directories with `scp -r` ##
   
   * Copying the whole markdown-parse directory to my ieng6 account.
     ![image5](https://user-images.githubusercontent.com/103288344/167373370-f6c5e609-55e7-406a-abd9-991102f03f85.png)
