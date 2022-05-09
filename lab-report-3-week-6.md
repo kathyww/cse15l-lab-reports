@@ -44,6 +44,11 @@
   
   * Combining commands to copy the whole directory and run the tests in one line
 
+    ![image7](https://user-images.githubusercontent.com/103288344/167377186-3268d91c-2b7d-48ce-ac88-ff7f485a3dc1.png)
+    
+    
+    ![image8](https://user-images.githubusercontent.com/103288344/167377198-de66edd4-3f7b-4d02-a587-e9b7fa164f60.png)
+
 
 
 
