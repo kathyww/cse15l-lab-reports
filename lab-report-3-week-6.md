@@ -23,6 +23,7 @@
     
     
   * Running `git` commands to commit and push a change to Github while logged into my ieng6 account
+
     ![image3](https://user-images.githubusercontent.com/103288344/167368630-82a02c35-6155-47cd-a11e-d6e084440467.png)
     ---
     ![image4](https://user-images.githubusercontent.com/103288344/167368678-8711c558-3882-4c43-adf5-f440a5becafa.png)
