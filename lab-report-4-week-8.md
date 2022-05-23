@@ -26,8 +26,10 @@ I think a small code change will make the program work for snippet 1. I can simp
 
 2. Snippet2
 
-
+I don’t think a small code change would work in this case, because I need to match the open paratheses with correct closing paratheses and this step need to consider many different cases. 
 
 
 3. Snippet3
+
+I think I can fix this by simply adding an if statement. So if there is a blank link in [] or (), currIndex should directly jump to next open bracket.
 
