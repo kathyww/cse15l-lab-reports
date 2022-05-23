@@ -21,7 +21,7 @@
 
 1. Snippet1
 
-
+I think a small code change will make the program work for snippet 1. I can simply add an if statement to check if there is a  \`\ mark prior to the Open bracket. And, if there is one, the currentIndex should directly jump to the index of charactor after close Bracket
 
 
 2. Snippet2
