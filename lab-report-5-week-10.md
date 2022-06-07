@@ -24,7 +24,7 @@ Expected output:
 
 ![image2](https://user-images.githubusercontent.com/103288344/172296134-1776c628-ba81-43bc-a863-46103fb8347b.png)
 
-* In this case the link should be /uri. My markdownParse didn't count the brackets correctly so it gets out of the loop before reaching the last paratheses and returns a empty string. To fix this, I need to add more if statement to test through the nested brackets and check if the line in the paratheses is not end with .jpg. 
+* In this case, the link should be `/uri`. My markdownParse didn't count the brackets correctly so it gets out of the loop before reaching the last paratheses and returns a empty string. To fix this, I need to add more if statement to test through the nested brackets and check if the line in the paratheses is not end with .jpg. 
 
 
 
@@ -47,4 +47,4 @@ Expected output:
 ![image4](https://user-images.githubusercontent.com/103288344/172296330-18ab37db-5820-4a65-96f5-3c5f9d76f8b9.png)
 
 
-* In this case the correct output is /url1. My markdownParse failed this by printing out the message instead of the link. To fix this, I need to add an if statement to check if the "link" in the paratheses contains space, and if it dose then ignore the line insides the paratheses. Also, the expected output shows that `[]:` can also create a link, so I need to add another if statement to check if there is any form of `[]:` in the file, and if it does then what's after `:` is the link.
+* In this case the correct output is `/url1`. My markdownParse failed this by printing out the message instead of the link. To fix this, I need to add an if statement to check if the "link" in the paratheses contains space, and if it dose then ignore the line insides the paratheses. Also, the expected output shows that `[]:` can also create a link, so I need to add another if statement to check if there is any form of `[]:` in the file, and if it does then what's after `:` is the link.
