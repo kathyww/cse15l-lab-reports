@@ -2,10 +2,16 @@
 
 ## Explain:
 
-I found the tests with different results using `vimdiff`
+I found the test cases with different results using `vimdiff`
+
+* [file1](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/516.md)
+
+* [file2](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/516.md)
 
 
 ## 1. 1st Test ##
+Both give the wrong outputs.
+
 
 Different expected outputs: 516
 
@@ -24,6 +30,7 @@ Expected output:
 
 
 ## 2. 2nd Test ##
+Both give the wrong outputs.
 
 Different expected outputs: 567
 
